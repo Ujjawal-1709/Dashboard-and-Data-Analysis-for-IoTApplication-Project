@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-09T17:28:37.691Z,32.3646,101.8781,15.96,5.9,mww,,20,3.886,0.62,us,us7000hg9p,2022-06-14T20:26:32.045Z,"248 km NW of Tianpeng, China",earthquake,7.2,2.6,0.055,32,reviewed,us,us
+2022-06-09T16:03:26.429Z,32.3357,101.8413,9.5,5.6,mww,,20,6.862,0.59,us,us7000hg8b,2022-06-12T17:20:02.984Z,"248 km NW of Tianpeng, China",earthquake,7.8,3.1,0.056,31,reviewed,us,us
+2022-06-08T00:55:47.303Z,-9.0665,-71.2103,621.92,6.5,mww,,31,1.987,0.92,us,us7000hfrj,2022-06-09T00:59:45.554Z,"111 km SSW of Tarauacá, Brazil",earthquake,9.2,2.9,0.049,40,reviewed,us,us
+2022-06-04T23:38:12.459Z,52.0696,178.3009,105,6.3,mww,,12,0.202,0.71,us,us7000hf1u,2022-06-17T23:48:30.382Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.2,1.7,0.024,162,reviewed,us,us
+2022-06-04T13:17:48.209Z,-57.7326,148.6945,10,6.4,mww,,39,6.589,0.63,us,us7000hexr,2022-06-07T14:41:40.054Z,"west of Macquarie Island",earthquake,8.9,1.7,0.098,10,reviewed,us,us
+2022-06-04T13:07:25.914Z,-17.9665,-174.9684,237,6.3,mww,,21,4.734,0.72,us,us7000hexp,2022-06-07T14:29:44.387Z,"128 km NW of Neiafu, Tonga",earthquake,9.5,1.9,0.037,71,reviewed,us,us
+2022-06-02T12:07:22.230Z,38.0765,-122.0076667,18.43,4.14,mw,202,24,0.04994,0.25,nc,nc73740051,2022-06-14T08:26:52.198Z,"7km NW of Bay Point, CA",earthquake,0.17,0.24,,4,reviewed,nc,nc
+2022-06-01T09:00:08.400Z,30.3957,102.9565,12,5.8,mww,,15,5.652,0.71,us,us7000he1h,2022-06-15T06:13:07.430Z,"48 km W of Linqiong, China",earthquake,7.6,1.8,0.043,52,reviewed,us,us
+2022-05-27T02:36:05.558Z,-8.2486,127.2072,49,6.2,mww,,18,3.267,1.3,us,us7000hcwg,2022-06-09T23:35:40.805Z,"37 km NE of Lospalos, Timor Leste",earthquake,3.4,1.8,0.075,17,reviewed,us,us
+2022-05-26T15:37:58.544Z,-22.8434,172.1356,15,6.6,mww,,16,4.335,0.93,us,us7000hcqw,2022-06-15T17:07:46.214Z,"southeast of the Loyalty Islands",earthquake,6.6,1.7,0.073,18,reviewed,us,us
+2022-05-26T12:02:20.271Z,-14.8628,-70.3081,217.83,7.2,mww,,28,2.532,1.37,us,us7000hcmn,2022-05-28T20:43:58.907Z,"Southern Peru",earthquake,7.9,5.5,0.06,27,reviewed,us,us
+2022-05-22T09:49:45.350Z,19.6403333333333,-155.968666666667,9.27,4.67,ml,61,121,,0.17,hv,hv73019747,2022-06-10T15:52:05.400Z,"3 km NW of Hōlualoa, Hawaii",earthquake,0.38,0.3,0.148490275630059,41,reviewed,hv,hv
+2022-05-22T07:06:28.342Z,-26.2067,178.4435,602.01,6.3,mww,,20,4.432,0.45,us,us6000hn1e,2022-06-12T11:23:59.721Z,"south of the Fiji Islands",earthquake,10,3.5,0.041,58,reviewed,us,us
+2022-05-21T21:50:48.047Z,14.0187,120.6494,129,6.1,mww,,11,8.435,1.04,us,us6000hmz8,2022-06-07T23:46:53.864Z,"1 km S of Lian, Philippines",earthquake,8.7,1.8,0.033,90,reviewed,us,us
+2022-05-19T10:13:31.625Z,-54.132,159.0545,10,6.9,mww,,45,0.371,0.97,us,us6000hm9j,2022-06-16T11:17:55.796Z,"Macquarie Island region",earthquake,7.3,1.7,0.078,16,reviewed,us,us
